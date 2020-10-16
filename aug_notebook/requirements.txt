@@ -1,0 +1,66 @@
+argon2-cffi @ file:///D:/bld/argon2-cffi_1596629999983/work
+backcall==0.2.0
+bleach==1.5.0
+certifi==2016.2.28
+cffi==1.10.0
+colorama==0.4.3
+cycler==0.10.0
+decorator==4.4.2
+defusedxml==0.6.0
+entrypoints==0.3
+html5lib==0.9999999
+ipykernel==5.3.4
+ipython==7.16.1
+ipython-genutils==0.2.0
+jedi==0.17.2
+Jinja2==2.9.6
+jsonschema==2.6.0
+jupyter-client @ file:///home/conda/feedstock_root/build_artifacts/jupyter_client_1594732094290/work
+jupyter-console==6.1.0
+jupyter-core==4.6.3
+kiwisolver==1.2.0
+MarkupSafe==1.0
+matplotlib @ file:///D:/bld/matplotlib-base_1597428587754/work
+mistune==0.8.4
+mpmath==1.1.0
+nbconvert==5.6.1
+nbformat==4.4.0
+notebook @ file:///D:/bld/notebook_1596502661158/work
+numpy @ file:///D:/bld/numpy_1595523080086/work
+olefile==0.44
+pandas==1.1.1
+pandocfilters==1.4.2
+parso==0.7.1
+path.py==10.3.1
+pickleshare==0.7.5
+Pillow @ file:///D:/bld/pillow_1594212354952/work
+pip==20.2.2
+prettytable==0.7.2
+prometheus-client @ file:///home/conda/feedstock_root/build_artifacts/prometheus_client_1590412252446/work
+prompt-toolkit==3.0.6
+pycparser==2.18
+pyecharts==1.7.1
+Pygments==2.6.1
+pyparsing==2.2.0
+PyQt5==5.12.3
+PyQt5-sip==4.19.18
+PyQtWebEngine==5.12.1
+pyrsistent==0.16.0
+python-dateutil==2.8.1
+pytz==2017.2
+pywin32==228
+pywinpty==0.5.7
+pyzmq==19.0.2
+Send2Trash==1.5.0
+setuptools==49.6.0
+simplegeneric==0.8.1
+simplejson==3.17.2
+six==1.15.0
+sympy==1.6.2
+terminado==0.8.3
+testpath==0.3
+tornado==6.0.4
+traitlets==4.3.3
+wcwidth==0.2.5
+wheel==0.29.0
+wincertstore==0.2
